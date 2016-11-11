@@ -9,7 +9,7 @@
 }
 
 body {
-	background-image: url("../images/seigaiha.png");
+	background: url("../images/seigaiha.png");
 	/*border: solid;*/
 	/*border-width: 1px;*/
 	/*border-color: #dddddd;*/
@@ -69,7 +69,7 @@ ul {
 	clear: both;
 }
 
-.col-md-6 {
+.pad-zero{
 	padding: 0px;
 }
 
