@@ -132,7 +132,7 @@ figure {
 
 .imagesstart h4{
 	width: 225px;
-	background-color:  #718da5;
+	background-color:  rgba(72, 85, 99, 0.91);
 	margin: -57px 0px 0px 0px;
 	font-size: 18px;
 	color: white;
@@ -144,8 +144,8 @@ figure {
 
 
 
-.panel-footer {
-
+.footerset {
+	font-family: sans-serif;
 	text-align: center;
 	height: 35px;
 	width: 100%;
